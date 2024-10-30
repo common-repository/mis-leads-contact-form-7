@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mis Leads CF7\n"
+"POT-Creation-Date: 2017-09-01 10:23+0100\n"
+"PO-Revision-Date: 2017-09-01 10:23+0100\n"
+"Last-Translator: Ruben Sanchez <ruben@ohayoweb.com>\n"
+"Language-Team: Ohayoweb <ruben@ohayoweb.com>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;esc_html_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /var/www/wordpress/wp-content/plugins/mis-leads-cf7\n"
+
+#: /var/www/wordpress/wp-content/plugins/mis-leads-cf7/views/admin_page.php:21
+msgid "Mis Leads for Conctact Form 7"
+msgstr "Mis Leads per Conctact Form 7"
+
+#: /var/www/wordpress/wp-content/plugins/mis-leads-cf7/views/admin_page.php:27
+msgid "Configuration"
+msgstr "Configuració"
+
+#: /var/www/wordpress/wp-content/plugins/mis-leads-cf7/views/admin_page.php:29
+msgid "Client"
+msgstr "Client"
+
+#: /var/www/wordpress/wp-content/plugins/mis-leads-cf7/views/admin_page.php:33
+msgid "ID Source"
+msgstr "ID Origen"
+
+#: /var/www/wordpress/wp-content/plugins/mis-leads-cf7/views/admin_page.php:42
+msgid "Form Fields"
+msgstr "Camps de formulari"
+
+#: /var/www/wordpress/wp-content/plugins/mis-leads-cf7/views/admin_page.php:43
+msgid "Add the Contact Form 7's fields you want to send to My Leads"
+msgstr "Afegiu els camps del Contact Form 7 que voleu enviar a Mis Leads"
+
+#: /var/www/wordpress/wp-content/plugins/mis-leads-cf7/views/admin_page.php:45
+msgid "Add Field"
+msgstr "Afegeix un camp"
+
+#: /var/www/wordpress/wp-content/plugins/mis-leads-cf7/views/admin_page.php:50
+msgid "Contact Form 7"
+msgstr ""
+
+#: /var/www/wordpress/wp-content/plugins/mis-leads-cf7/views/admin_page.php:51
+#: /var/www/wordpress/wp-content/plugins/mis-leads-cf7/includes/class.misleads-cf7.php:91
+#: /var/www/wordpress/wp-content/plugins/mis-leads-cf7/includes/class.misleads-cf7.php:92
+msgid "Mis Leads"
+msgstr ""
+
+#: /var/www/wordpress/wp-content/plugins/mis-leads-cf7/views/admin_page.php:72
+msgid "Pages"
+msgstr "Pàgines"
+
+#: /var/www/wordpress/wp-content/plugins/mis-leads-cf7/views/admin_page.php:73
+msgid "Page Matching"
+msgstr "Combinació de pàgines"
+
+#: /var/www/wordpress/wp-content/plugins/mis-leads-cf7/views/admin_page.php:79
+msgid "Pathname"
+msgstr "Nom del camí"
+
+#: /var/www/wordpress/wp-content/plugins/mis-leads-cf7/views/admin_page.php:80
+msgid "ID Product"
+msgstr "ID Producte"
+
+#: /var/www/wordpress/wp-content/plugins/mis-leads-cf7/includes/class.misleads-cf7.php:104
+msgid "The Contact Form 7 plugin is not activated."
+msgstr "El giny Contact Form 7 no està activat."
